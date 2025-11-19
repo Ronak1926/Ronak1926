@@ -90,3 +90,5 @@
 
 <br/>
 ⭐️ Feel free to star repositories you like or follow me to stay connected!
+
+![snake gif](https://github.com/Ronak1926/Ronak1926/blob/output/github-snake-dark.svg)

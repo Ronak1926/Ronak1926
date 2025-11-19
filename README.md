@@ -71,27 +71,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25"/>
 </p>
 
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronak1926&show_icons=true&theme=github_dark&hide_border=false&border_radius=10" alt="GitHub Stats" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak1926&layout=compact&theme=github_dark&hide_border=false&border_radius=10" alt="Top Languages" height="170"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak1926&theme=github_dark&hide_border=false&border_radius=10" alt="GitHub Streak" width="500"/>
-</div>
-
-
-<br/>
-⭐️ Feel free to star repositories you like or follow me to stay connected!
-
-![snake gif](https://raw.githubusercontent.com/Ronak1926/Ronak1926/output/github-snake-dark.svg)
 
 
 
